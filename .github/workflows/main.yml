@@ -6,7 +6,7 @@ on:
 
       ipa_url:
         description: "URL to the decrypted IPA file"
-        default: ""
+        default: "https://und3fy-my.sharepoint.com/personal/5decrypt_und3fy_onmicrosoft_com/_layouts/15/download.aspx?share=ESWdmRqpVXBNtfaCy8rcxbEBGyv3RO17W9Orhre7HYB87A"
         required: true
         type: string
 
